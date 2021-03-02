@@ -1,0 +1,19 @@
+//!  Components
+
+//! "parameter name".data => access to JSON object
+
+//! 2-Axios way
+
+//! Api
+
+//! Calling API always inside of "ComponentDidMount"
+
+//! Image
+
+//! Last warning before removing stuff
+
+//! data is the only element inside of JSON object
+
+//! npm i axios and import axios
+
+//! when return false from update ,there is no render

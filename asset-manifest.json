@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fetch-axios/static/css/main.7ae053ab.chunk.css",
+    "main.js": "/fetch-axios/static/js/main.a1ecddfa.chunk.js",
+    "main.js.map": "/fetch-axios/static/js/main.a1ecddfa.chunk.js.map",
+    "runtime-main.js": "/fetch-axios/static/js/runtime-main.a05616f7.js",
+    "runtime-main.js.map": "/fetch-axios/static/js/runtime-main.a05616f7.js.map",
+    "static/css/2.150d169a.chunk.css": "/fetch-axios/static/css/2.150d169a.chunk.css",
+    "static/js/2.cfab8347.chunk.js": "/fetch-axios/static/js/2.cfab8347.chunk.js",
+    "static/js/2.cfab8347.chunk.js.map": "/fetch-axios/static/js/2.cfab8347.chunk.js.map",
+    "static/js/3.abfcb35e.chunk.js": "/fetch-axios/static/js/3.abfcb35e.chunk.js",
+    "static/js/3.abfcb35e.chunk.js.map": "/fetch-axios/static/js/3.abfcb35e.chunk.js.map",
+    "index.html": "/fetch-axios/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/fetch-axios/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.7ae053ab.chunk.css.map": "/fetch-axios/static/css/main.7ae053ab.chunk.css.map",
+    "static/js/2.cfab8347.chunk.js.LICENSE.txt": "/fetch-axios/static/js/2.cfab8347.chunk.js.LICENSE.txt",
+    "static/js/main.a1ecddfa.chunk.js.LICENSE.txt": "/fetch-axios/static/js/main.a1ecddfa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a05616f7.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.cfab8347.chunk.js",
+    "static/css/main.7ae053ab.chunk.css",
+    "static/js/main.a1ecddfa.chunk.js"
+  ]
+}
